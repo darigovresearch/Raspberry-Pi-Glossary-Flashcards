@@ -4,17 +4,17 @@ Arm (Raspberry Pi Glossary)|A <a href="https://en.wikipedia.org/wiki/Arm_archite
 Armv6 (Raspberry Pi Glossary)|The instruction set architecture used on the first Raspberry Pi (Pi 1) and the Pi Zero range.
 Armv7 (Raspberry Pi Glossary)|The instruction set architecture used on the Raspberry Pi 2 range.
 Armv8 (Raspberry Pi Glossary)|The instruction set architecture used on the Raspberry Pi 3 range; very similar to Armv7 in 32-bit mode.
-balenaEtcher (Raspberry Pi Glossary)|A graphical tool for <a href="../installation/installing-images/README.md">programming SD cards</a> ready for use on our devices; available for Linux, Windows, and Mac. Now superceded by Raspberry Pi's own imaging tool, which can be downloaded <a href="https://www.raspberrypi.org/downloads/">here</a>.
+balenaEtcher (Raspberry Pi Glossary)|A graphical tool for <a href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md">programming SD cards</a> ready for use on our devices; available for Linux, Windows, and Mac. Now superceded by Raspberry Pi's own imaging tool, which can be downloaded <a href="https://www.raspberrypi.org/downloads/">here</a>.
 Bare metal (Raspberry Pi Glossary)|Programming the Raspberry Pi without using an operating system.
-BCM2835 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 1, Compute Module 1, and Raspberry Pi Zero range; see our <a href="../hardware/raspberrypi/bcm2835/README.md">official documentation</a>.
-BCM2836 (Raspberry Pi Glossary)|The SoC used on the original Raspberry Pi 2; see our <a href="../hardware/raspberrypi/bcm2836/README.md">official documentation</a>.
-BCM2837 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 3, Compute Module 3, and Raspberry Pi 2 version 1.2; see our <a href="../hardware/raspberrypi/bcm2837/README.md">official documentation</a>.
-BCM2711 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 4B; see our <a href="../hardware/raspberrypi/bcm2711/README.md">official documentation</a>.
+BCM2835 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 1, Compute Module 1, and Raspberry Pi Zero range; see our <a href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/README.md">official documentation</a>.
+BCM2836 (Raspberry Pi Glossary)|The SoC used on the original Raspberry Pi 2; see our <a href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2836/README.md">official documentation</a>.
+BCM2837 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 3, Compute Module 3, and Raspberry Pi 2 version 1.2; see our <a href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2837/README.md">official documentation</a>.
+BCM2711 (Raspberry Pi Glossary)|The SoC used on the Raspberry Pi 4B; see our <a href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2711/README.md">official documentation</a>.
 BLE/BTLE (Raspberry Pi Glossary)|Bluetooth Low Energy, a low-power version of the Bluetooth wireless communications protocol.
 BT (Raspberry Pi Glossary)|Bluetooth, a short-range, low-bandwidth, wireless communication protocol often used for mobile devices.
 CODEC (Raspberry Pi Glossary)|Coder/Decoder, hardware or software blocks that encode and/or decode video or audio data.
-Compute Module (Raspberry Pi Glossary)|A <a href="../hardware/computemodule/README.md">Pi variant aimed at commercial customers</a>; uses a different form factor, facilitating use inside other products.
-<code>config.txt</code> (Raspberry Pi Glossary)|A file located on the boot partition of a Raspberry Pi's SD card that is parsed at boot time in order to enable, disable, and manage operating system features which cannot be changed after booting; see our <a href="../configuration/config-txt/README.md">official documentation</a>.
+Compute Module (Raspberry Pi Glossary)|A <a href="https://www.raspberrypi.org/documentation/hardware/computemodule/README.md">Pi variant aimed at commercial customers</a>; uses a different form factor, facilitating use inside other products.
+<code>config.txt</code> (Raspberry Pi Glossary)|A file located on the boot partition of a Raspberry Pi's SD card that is parsed at boot time in order to enable, disable, and manage operating system features which cannot be changed after booting; see our <a href="https://www.raspberrypi.org/documentation/configuration/config-txt/README.md">official documentation</a>.
 CSI (Raspberry Pi Glossary)|Camera Serial Interface, a hardware interface for connecting cameras to SoCs.
 DHCP (Raspberry Pi Glossary)|Dynamic Host Configuration Protocol, a network management protocol which dynamically assigns an IP address and other network configuration parameters to each device on a network.
 DPI (Raspberry Pi Glossary)|Parallel Display Interface, an up to 24-bit parallel RGB interface via the Raspberry Pi's GPIO pins.
@@ -25,7 +25,7 @@ Device Tree blob (DTB) (Raspberry Pi Glossary)|A binary file containing a Device
 <code>dt-blob.bin</code> (Raspberry Pi Glossary)|A binary file containing initial GPIO configuration that is read by the firmware at boot time; despite the name, this is <strong>not</strong> Device Tree blob (although it is compiled by the Device Tree tools).
 DVI (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/Digital_Visual_Interface">Digital Visual Interface</a>, a video interface for connecting a source device to a monitor or display; electrically compatible with HDMI, so a simple adapter can convert from one to the other (excluding audio, which DVI does not support).
 Etcher (Raspberry Pi Glossary)|See balenaEtcher.
-FAQ (Raspberry Pi Glossary)|Frequently Asked Questions! See our <a href="../faqs/">FAQ</a>.
+FAQ (Raspberry Pi Glossary)|Frequently Asked Questions! See our <a href="https://www.raspberrypi.org/documentation/faqs/">FAQ</a>.
 Firmware (Raspberry Pi Glossary)|Software that runs on a particular hardware device, for example a wireless chip or dongle; distinct from the usual software running on the Raspberry Pi in that it is usually a fixed binary blob of data that is loaded on to the device at startup; on the Raspberry Pi, the VC4 GPU requires firmware to be loaded to it at startup in order boot up and run the entire system.
 GNU (Raspberry Pi Glossary)|The <a href="https://en.wikipedia.org/wiki/GNU_Project">GNU Project</a> is a free software mass collaboration project, which has produced huge amounts of software that is used on the Raspberry Pi, including Linux itself.
 GPIO (Raspberry Pi Glossary)|General Purpose Input/Output, the programmable pins on the Raspberry Pi.
@@ -44,16 +44,16 @@ Linux (Raspberry Pi Glossary)|The main operating system used on the Raspberry Pi
 MSD (Raspberry Pi Glossary)|Mass Storage Device (amongst other things), such as an SD card or hard disk drive.
 MQTT (Raspberry Pi Glossary)|MQTT stands for MQ Telemetry Transport, a lightweight and simple machine-to-machine protocol often used for IoT devices; see <a href="http://mqtt.org/">the MQTT website</a>.
 NAND (Raspberry Pi Glossary)|A <a href="https://en.wikipedia.org/wiki/NAND_gate">NAND gate</a> is a logic gate, specifically an inverted AND gate; can also refer to a type of flash memory that uses NAND logic.
-NOOBS (Raspberry Pi Glossary)|New Out of Box software, easy <a href="../installation/noobs.md">OS system image installation</a> for the Raspberry Pi range; <strong>note:</strong> NOOBS is no longer developed by the Raspberry Pi team, see PINN instead.
+NOOBS (Raspberry Pi Glossary)|New Out of Box software, easy <a href="https://www.raspberrypi.org/documentation/installation/noobs.md">OS system image installation</a> for the Raspberry Pi range; <strong>note:</strong> NOOBS is no longer developed by the Raspberry Pi team, see PINN instead.
 OTP (Raspberry Pi Glossary)|One-Time Programmable, a type of memory that can only be programmed once, and retains the programmed data after power off; used for serial numbers etc.
-Overlay (Raspberry Pi Glossary)|A boot-time or run-time patch to a Device Tree allowing a degree of configuration by the user; see our <a href="../configuration/device-tree.md">official documentation</a> for more details, or run <code>dtoverlay -a</code> in a terminal window for a list of available overlays.
+Overlay (Raspberry Pi Glossary)|A boot-time or run-time patch to a Device Tree allowing a degree of configuration by the user; see our <a href="https://www.raspberrypi.org/documentation/configuration/device-tree.md">official documentation</a> for more details, or run <code>dtoverlay -a</code> in a terminal window for a list of available overlays.
 Pink Pony/Unicorn (Raspberry Pi Glossary)|A feature request for a future Raspberry Pi model that is unlikely to happen.
 PINN (Raspberry Pi Glossary)|A <a href="https://github.com/procount/pinn">third-party development</a> of the NOOBS system, often a better option than the official NOOBS.
 PoE (Raspberry Pi Glossary)|Power over Ethernet, a mechanism to power a device through its Ethernet connection; we produce a <a href="https://www.raspberrypi.org/products/poe-hat">PoE HAT</a> for the Raspberry Pi 3 Model B+ and Raspberry Pi 4 Model B.
 Polyfuse (Raspberry Pi Glossary)|A self-resetting electrical fuse used on some Pi models to protect against over-current; can take hours or even days to reset.
-<code>raspi-config</code> (Raspberry Pi Glossary)|A command line tool for configuring Raspbian's operating system features; see our <a href="../configuration/raspi-config.md">official documentation</a>.
+<code>raspi-config</code> (Raspberry Pi Glossary)|A command line tool for configuring Raspbian's operating system features; see our <a href="https://www.raspberrypi.org/documentation/configuration/raspi-config.md">official documentation</a>.
 Raspberry Pi Imager (Raspberry Pi Glossary)|The official graphical tool for downloading and installing operating system images to an SD card. Download it <a href="https://www.raspberrypi.org/downloads/">here</a>.
-raspivid, raspistill, raspiyuv, raspividyuv (Raspberry Pi Glossary)|A set of applications to run the Raspberry Pi Camera Module in various modes; see our <a href="../raspbian/applications/camera.md">official documentation</a>.
+raspivid, raspistill, raspiyuv, raspividyuv (Raspberry Pi Glossary)|A set of applications to run the Raspberry Pi Camera Module in various modes; see our <a href="https://www.raspberrypi.org/documentation/raspbian/applications/camera.md">official documentation</a>.
 Raspbian (Raspberry Pi Glossary)|A Debian-based Linux distribution targeted at the entire Raspberry Pi range, regarded as the official operating system; the current version is based on Debian Buster, with the first release in June 2019; see the <a href="https://en.wikipedia.org/wiki/Raspbian">Wikipedia entry for further release details</a>.
 Raspberry Pi Configuration Tool (<code>rcgui</code>) (Raspberry Pi Glossary)|A graphical equivalent of <code>raspi-config</code>.
 Raspberry Pi Desktop (Raspberry Pi Glossary)|A version of the LXDE desktop environment, specifically tailored to the Raspberry Pi (used to be called PIXEL).
@@ -62,14 +62,14 @@ RPT/RPF(T) (Raspberry Pi Glossary)|Raspberry Pi Trading, a wholely owned commerc
 rpi-update (Raspberry Pi Glossary)|A program you can run on a Raspberry Pi to download the very latest test firmware and Linux kernel; there is no guarantee that the latest version will work correctly, so you should only run rpi-update if recommended by a Raspberry Pi engineer.
 SoC (Raspberry Pi Glossary)|System on a Chip, an integrated circuit that comprises all components of a computer.
 SPI (Raspberry Pi Glossary)|Serial Peripheral Interface bus, a synchronous serial communication interface specification used for short distance communication.
-SSH (Raspberry Pi Glossary)|Secure Shell, a cryptographic network protocol for operating network services securely over an unsecured network; see our <a href="../remote-access/ssh/README.md">official documentation</a> or <a href="https://en.wikipedia.org/wiki/Secure_Shell">the Wikipedia article on SSH</a>.
+SSH (Raspberry Pi Glossary)|Secure Shell, a cryptographic network protocol for operating network services securely over an unsecured network; see our <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/README.md">official documentation</a> or <a href="https://en.wikipedia.org/wiki/Secure_Shell">the Wikipedia article on SSH</a>.
 TLA (Raspberry Pi Glossary)|Three-letter abbreviation, almost the entire reason for this glossary.
 TLS (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">Transport Layer Security</a>, a cryptographic protocol used to supply security over a computer network, often used to secure other protocols such as MQTT.
 TP1/TP2 (Raspberry Pi Glossary)|Test points.
 UART (Raspberry Pi Glossary)|Universal Asynchronous Receiver-Transmitter, a protocol for asynchronous serial communication in which the data format and transmission speeds are configurable.
 USB (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/USB">Universal Serial Bus</a>, the main Raspberry Pi models have four USB sockets for connecting USB devices, for example mice or keyboards.
 VC4, VC6 (Raspberry Pi Glossary)|The VideoCore4 or VideoCore6 GPU used on the Raspberry Pi; contains a large number of hardware blocks that handle graphics, cameras, display, CODECs, etc.
-VNC (Raspberry Pi Glossary)|A graphical desktop sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer; see our <a href="../remote-access/vnc/README.md">official documentation</a>.
+VNC (Raspberry Pi Glossary)|A graphical desktop sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer; see our <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/README.md">official documentation</a>.
 Volt (V) (Raspberry Pi Glossary)|SI-derived unit for <a href="https://en.wikipedia.org/wiki/Volt">electrical potential difference</a>.
 <code>vcgencmd</code> (Raspberry Pi Glossary)|A Raspberry Pi-specific tool for communicating with the VideoCore GPU.
 Watt (Raspberry Pi Glossary)|A measure of <a href="https://en.wikipedia.org/wiki/Watt">power</a> often used when specifying power supplies.
