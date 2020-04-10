@@ -36,8 +36,8 @@ HDCP (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/High-bandwid
 HVS (Raspberry Pi Glossary)|Hardware Video Scaler, a hardware block in the VC4 or VC6 GPU on all Raspberry Pi models that is used for manipulating and displaying bitmaps.
 I<sup>2</sup>C/I2C/IIC (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/I%C2%B2C">Inter-Integrated Circuit</a> (pronounced <em>I-squared-C</em>), an electrical protocol used for attaching lower-speed peripheral ICs to processors and microcontrollers in short-distance, intra-board communication.
 I<sup>2</sup>S (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/I%C2%B2S">Inter-Integrated Circuit Sound</a>, an electrical serial bus interface standard used for connecting digital audio devices together.
-ISP (Raspberry Pi Glossary)|Imaging System Pipeline, a set of hardware (and sometimes software) stages that processes images from a camera into a high-quality result; the Raspberry Pi has a built-in hardware ISP that processes images captured from a camera attached to the CSI port.
-ISP (Raspberry Pi Glossary)|Internet service provider.
+ISP [Imaging System Pipeline] (Raspberry Pi Glossary)|A set of hardware (and sometimes software) stages that processes images from a camera into a high-quality result; the Raspberry Pi has a built-in hardware ISP that processes images captured from a camera attached to the CSI port.
+ISP [Internet Service Provider] (Raspberry Pi Glossary)|An organization that provides services for accessing, using, or participating in the Internet; see <a href="https://en.wikipedia.org/wiki/Internet_service_provider">Wikipedia</a>.
 LAN (Raspberry Pi Glossary)|Local Area Network, an Ethernet- or wireless-based communication network in a localised area, for example a house or office.
 LED (Raspberry Pi Glossary)|Light-Emitting Diode, a semiconductor device that produces light using electricity.
 Linux (Raspberry Pi Glossary)|The main operating system used on the Raspberry Pi; the particular customised distribution for the Raspberry Pi range is called Raspbian; third parties have also produced their own distributions.
