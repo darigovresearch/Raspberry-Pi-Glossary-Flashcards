@@ -1,3 +1,18 @@
+Introduction (Raspberry Pi Glossary)|"
+<p>This deck has taken definitions outlined in <a href=""https://www.raspberrypi.org/documentation/glossary/"">Raspberry Pi Foundation's Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Raspberry Pi Glossary)"" appended to the end so that if you have any other words in your collection, the Raspberry Pi definition will still be added when importing it.</li>
+<li>In particular for the definitions of ISP (Imaging System Pipeline & Internet Service Provider) because in the documentation there are two definitions with the same ""front"", we explicitly name them so both can be imported into Anki since by default it does not import duplicates. The definition for Internet Service Provider was also taken from <a href=""https://en.wikipedia.org/wiki/Internet_service_provider"">Wikipedia</a>.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Raspberry-Pi-Glossary-Flashcards"">https://github.com/darigovresearch/Raspberry-Pi-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p><a href=""http://creativecommons.org/licenses/by-sa/4.0/""><img src=""https://camo.githubusercontent.com/bcf3a6ab4e230bba5dccd17c141539d8294228ff/687474703a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38387833312e706e67"" alt=""Creative Commons License"" data-canonical-src=""http://i.creativecommons.org/l/by-sa/4.0/88x31.png"" style=""max-width:100%;""></a></p>
+<p>This work was based on the <em><strong>Raspberry Pi documentation glossary</strong></em> by the <a href=""http://www.raspberrypi.org"">Raspberry Pi Foundation</a>, licensed under a <a href=""http://creativecommons.org/licenses/by-sa/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
+<p>To see this work in full go to <a href=""https://www.raspberrypi.org/documentation/glossary/"">https://www.raspberrypi.org/documentation/glossary/</a></p>"
 A/mA (Raspberry Pi Glossary)|Ampere/milliampere, the <a href="https://en.wikipedia.org/wiki/Ampere">base unit of electrical current</a>.
 API (Raspberry Pi Glossary)|<a href="https://en.wikipedia.org/wiki/Application_programming_interface">Application Programming Interface</a>, a set of subroutine definitions, communication protocols, and tools used for building software.
 Arm (Raspberry Pi Glossary)|A <a href="https://en.wikipedia.org/wiki/Arm_architecture">series of instruction-set architectures and processor microarchitectures</a>, mostly developed by Arm Holdings based in Cambridge, UK.
